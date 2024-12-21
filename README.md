@@ -17,7 +17,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone <repository_url>
+git clone https://github.com/SUJALJOISAR/GatewayTaskManager.git
 Open the index.html file in your web browser.
 
 Usage
